@@ -1,0 +1,19 @@
+{
+  "name": "authgeneration",
+  "version": "1.0.0",
+  "description": "A package that allows you to generate API Keys and other auth ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahajKohli/authGeneration.git"
+  },
+  "author": "Sahaj Kohli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SahajKohli/authGeneration/issues"
+  },
+  "homepage": "https://github.com/SahajKohli/authGeneration#readme"
+}
